@@ -1,0 +1,67 @@
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\appsettings.json
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.exe
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.deps.json
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.runtimeconfig.json
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.runtimeconfig.dev.json
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.pdb
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.Views.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Unidad 3 FruitStore.Views.pdb
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.AssemblyInfoInputs.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.AssemblyInfo.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.csproj.CoreCompileInputs.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.MvcApplicationPartsAssemblyInfo.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.RazorAssemblyInfo.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.RazorAssemblyInfo.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.TagHelpers.input.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.TagHelpers.output.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.RazorCoreGenerate.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Agregar.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Editar.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Eliminar.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Categoria.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ver.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Agregar.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Editar.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Eliminar.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.RazorTargetAssemblyInfo.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.RazorTargetAssemblyInfo.cs
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.Views.pdb
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.csproj.CopyComplete
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\staticwebassets\Unidad 3 FruitStore.StaticWebAssets.Manifest.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\staticwebassets\Unidad 3 FruitStore.StaticWebAssets.xml
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.dll
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.pdb
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.genruntimeconfig.cache
+A:\7mo Semestre\ProgramacionWeb-main\ProgramacionWeb-main\Unidad 3\Programacion Web_Unidad3\Actividad1-FruitStore\obj\Debug\netcoreapp3.1\Unidad 3 FruitStore.csprojAssemblyReference.cache
